@@ -1,5 +1,5 @@
 function setup() {
-    canvas = createcanvas(300, 300);
+    canvas = createCanvas(300, 300);
     canvas.center();
 }
 
